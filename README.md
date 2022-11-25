@@ -1,3 +1,8 @@
+0
+Zero
+
+
+
 ![](docs/mona.gif)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alievk/avatarify/blob/master/avatarify.ipynb)
